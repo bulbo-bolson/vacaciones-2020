@@ -25,3 +25,17 @@
   - [Opción 3 centro](https://es-l.airbnb.com/rooms/22982876?location=Madrid&adults=4&check_in=2020-08-24&check_out=2020-08-30&source_impression_id=p3_1592934719_eKH3fKuSEG7WkEKv&guests=1) : 582
 - Gasto estimado persona / día: 50 * 6 = 300 €
 
+
+
+### Cádiz
+
+- Total: 617 € / persona
+- Viaje en avión Bilbao - Cádiz: 140 € / persona (ida + vuelta)
+- Viaje tren Sevilla - cádiz: 13,3 € (ida + vuelta)
+- Alojamiento:
+  - [Opción 1]([https://es-l.airbnb.com/rooms/32787787?location=c%C3%A1diz&adults=4&check_in=2020-08-24&check_out=2020-08-30&source_impression_id=p3_1593102114_p%2FsUrqgbRDX8eTMy&guests=1](https://es-l.airbnb.com/rooms/32787787?location=cádiz&adults=4&check_in=2020-08-24&check_out=2020-08-30&source_impression_id=p3_1593102114_p%2FsUrqgbRDX8eTMy&guests=1)) : 1,129 / 4 = 282,25 € / persona
+  - [Opción 2]([https://es-l.airbnb.com/rooms/21174923?location=c%C3%A1diz&adults=4&check_in=2020-08-24&check_out=2020-08-30&source_impression_id=p3_1593102115_c1lBl2DgFcLbZL49&guests=1](https://es-l.airbnb.com/rooms/21174923?location=cádiz&adults=4&check_in=2020-08-24&check_out=2020-08-30&source_impression_id=p3_1593102115_c1lBl2DgFcLbZL49&guests=1)) : 913 / 4 = 228,25 € / persona
+  - [Opción 3]() : 656 / 4 = 164 € / persona
+  - [Opción 4]() : 597 / 4 = 149,25 € / persona
+- Gasto estimado persona / día: 50 * 6 = 300 €
+
