@@ -9,7 +9,7 @@
   - ![image-20200623190056299](assets/image-20200623190056299.png)
 - Alojamiento:
   - [Opción 1](https://es-l.airbnb.com/rooms/24598886?location=Oporto%2C%20Portugal&adults=4&check_in=2020-08-24&check_out=2020-08-30&source_impression_id=p3_1592933383_vMUfvP7K%2Ffg0vr9Q&guests=1) : 469 / 4 = 117 € / persona
-  - [Opción 2]([https://es-l.airbnb.com/rooms/35092168?location=Oporto%2C%20Portugal&adults=4&check_in=2020-08-24&check_out=2020-08-30&source_impression_id=p3_1592933393_5MCbukE8riioeayb&guests=1](https://es-l.airbnb.com/rooms/35092168?location=Oporto%2C Portugal&adults=4&check_in=2020-08-24&check_out=2020-08-30&source_impression_id=p3_1592933393_5MCbukE8riioeayb&guests=1)) : 467 / 4 = 116 € / persona
+  - [Opción 2](https://es-l.airbnb.com/rooms/35092168?location=Oporto%2C%20Portugal&adults=4&check_in=2020-08-24&check_out=2020-08-30&source_impression_id=p3_1592933393_5MCbukE8riioeayb&guests=1) : 467 / 4 = 116 € / persona
   - [Opción 3](https://es-l.airbnb.com/rooms/17718139?location=Oporto%2C%20Portugal&adults=4&check_in=2020-08-24&check_out=2020-08-30&source_impression_id=p3_1592933406_vRDrPdRNKBYiv9Q%2B&guests=1) : 450 / 4 = 112 € / persona
 - Gasto estimado persona / día: 50 * 6 = 300 €
 - Sitios para ver:
