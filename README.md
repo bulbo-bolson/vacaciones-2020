@@ -22,13 +22,13 @@
 - Total: 474 € / persona
 - Viaje Tren vitoria - madrid:  40 € / persona (ida + vuelta)
 - Alojamiento:
-  - [Opción 1 atocha](https://es-l.airbnb.com/rooms/31954947?location=Madrid&adults=4&check_in=2020-08-24&check_out=2020-08-30&source_impression_id=p3_1592934354_7duc1Q0BeckTS%2Bxp&guests=1) : 535 / 4 = 134 € / persona
-  - [Opción 2 chamberí](https://es-l.airbnb.com/rooms/39455977?location=Madrid&adults=4&check_in=2020-08-24&check_out=2020-08-30&source_impression_id=p3_1592934675_94UF%2B7dZOX%2BhCxlM&guests=1) : 471 / 4 =
-  - [Opción 3 centro](https://es-l.airbnb.com/rooms/22982876?location=Madrid&adults=4&check_in=2020-08-24&check_out=2020-08-30&source_impression_id=p3_1592934719_eKH3fKuSEG7WkEKv&guests=1) : 582
+  - [Opción 1 barata](https://es-l.airbnb.com/rooms/22598667?location=Madrid&adults=4&check_in=2020-08-26&check_out=2020-08-30&source_impression_id=p3_1594209851_tEdybjTe26W4a8ox&guests=1)
+  - [Opción 2 barata](https://es-l.airbnb.com/rooms/42542000?location=Madrid&adults=4&check_in=2020-08-26&check_out=2020-08-30&source_impression_id=p3_1594210737_ZDtIcqNvs0Ls%2BVhL&guests=1)
+  - [Opción 3 algo más cara](https://es-l.airbnb.com/rooms/plus/16286535?location=Madrid&adults=4&check_in=2020-08-26&check_out=2020-08-30&source_impression_id=p3_1594209855_TMRulqcph1IBNai7&guests=1)
+  - [Opción 4 más cara atocha parking](https://es-l.airbnb.com/rooms/31954947?location=Madrid&adults=4&check_in=2020-08-24&check_out=2020-08-30&source_impression_id=p3_1592934354_7duc1Q0BeckTS%2Bxp&guests=1) : 535 / 4 = 134 € / persona
 - Gasto estimado persona / día: 50 * 6 = 300 €
 - Sitios que ver:
   - Mucha oferta
-
 
 
 ### Salvatierra
