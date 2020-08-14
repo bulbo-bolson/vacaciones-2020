@@ -1,0 +1,4 @@
+- Palacio Real
+- Templo de Debod
+- Retiro
+- Barrio de Malasaña
