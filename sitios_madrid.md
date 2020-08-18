@@ -1,12 +1,15 @@
 # Pillar un abono de 10 viajes zona A (11 pavos)
 # pillar puntualmente abono 1 viaje para zonas lejanas
-- Plaza Mayor
-- Palacio Real
+==============
+- Palacio Real => si queremos entrar conviene pillar entradas por internet 13 €
 - Catedral de la Almudena
-- Biblioteca nacional: me parece que está cerrada por covid ?
-- Casa Museo Sorolla
+- Plaza Mayor
+==============
 - Templo de Debod
 - Barrio de Malasaña
+==============
+- Casa Museo Sorolla 
+==============
 - Casa de campo, 6 veces hyde park. Posibilidades:
   - Teleférico
   - Barcas
