@@ -1,0 +1,37 @@
+- mochila pequeña
+  - [ ] riñonera con docu y todo
+  - [ ] móvil
+  - [ ] termo
+  - [x] gorra
+  - [ ] navaja
+  - [ ] crema solar
+  - [x] juego de mesa
+  - [x] gel desinfectante
+- ropa
+  - [x] zapatillas
+  - [ ] chancletas
+  - [x] pantalón corto x 2
+  - [x] sudadera
+  - [x] vaqueros
+  - [x] calzoncillos
+  - [x] calcetines
+  - [x] camisetas
+  - [x] polar
+  - [x] gorro de piscina
+  - [ ] bolsa ropa sucia
+  - [x] toalla pequeña
+  - [x] bañadores
+- varios
+  - [ ] cargador
+  - [ ] champú / jabón
+  - [x] pañuelos
+  - [x] mascarillas
+  - [x] desinfectante
+  - [x] ebook o libro
+  - [ ] bolsa de basura para ropa sucia
+  - [ ] altavoz bluetooth
+- neceser
+  - [x] cepillo
+  - [x] seda dental
+  - [x] pasta
+  - [x] crema de manos aloe vera pequeña
