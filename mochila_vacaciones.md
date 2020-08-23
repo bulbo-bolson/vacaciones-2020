@@ -3,33 +3,33 @@
   - [ ] móvil
   - [ ] termo
   - [x] gorra
-  - [ ] navaja
-  - [ ] crema solar
+  - [x] navaja
+  - [x] crema solar
   - [x] juego de mesa
   - [x] gel desinfectante
 - ropa
   - [x] zapatillas
-  - [ ] chancletas
+  - [x] chancletas
   - [x] pantalón corto x 2
   - [x] sudadera
-  - [x] vaqueros
+  - [x] vaqueros￼
   - [x] calzoncillos
   - [x] calcetines
   - [x] camisetas
   - [x] polar
   - [x] gorro de piscina
-  - [ ] bolsa ropa sucia
+  - [x] bolsa ropa sucia
   - [x] toalla pequeña
   - [x] bañadores
 - varios
   - [ ] cargador
-  - [ ] champú / jabón
+  - [x] champú / jabón
   - [x] pañuelos
   - [x] mascarillas
   - [x] desinfectante
   - [x] ebook o libro
-  - [ ] bolsa de basura para ropa sucia
-  - [ ] altavoz bluetooth
+  - [x] bolsa de basura para ropa sucia
+  - [x] altavoz bluetooth
 - neceser
   - [x] cepillo
   - [x] seda dental
